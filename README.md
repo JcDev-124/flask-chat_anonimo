@@ -59,6 +59,4 @@ Este projeto é licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICE
 
 **Divirta-se com seu chat não relacional!** 🚀
 
-[Seu Nome](https://github.com/seu-usuario)
 
-Este é um exemplo básico de um README.md. Certifique-se de personalizá-lo de acordo com as especificidades do seu projeto e adicionar quaisquer informações adicionais que julgar necessárias.
